@@ -1,36 +1,201 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Xai – Intelligence Workspace
 
-## Getting Started
+> From raw data → structured intelligence → actionable insight → AI automation
 
-First, run the development server:
+A high-fidelity interactive AI product experience built for the **RacoAI Frontend Challenge**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Xai is an intelligence workspace concept that transforms fragmented business signals into meaningful insights through interactive visualization, motion design, and a realistic product interface.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The goal was to create a calm, powerful, and technically confident AI product experience inspired by modern platforms like Stripe, Linear, and Vercel.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# ✨ Product Concept
 
-## Learn More
+Modern organizations collect massive amounts of data from different sources, but raw information alone does not create decisions.
 
-To learn more about Next.js, take a look at the following resources:
+Xai creates an intelligence layer that connects:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+The interface visually explains this transformation through:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Motion
+- 3D data visualization
+- Interactive product states
+- Realistic dashboard experiences
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 🚀 Key Experiences
+
+## 01. Intelligence Hero Experience
+
+The opening experience introduces Xai as an AI intelligence workspace.
+
+Features:
+
+- Interactive glass-based product interface
+- Cursor-responsive 3D depth effect
+- Animated intelligence network
+- Floating data visualization
+- Smooth entrance choreography
+
+---
+
+## 02. Interactive Intelligence Flow
+
+A three-stage explanation of how Xai works.
+
+### Ingest Data
+
+Connects scattered business information into a unified intelligence layer.
+
+Examples:
+
+- CRM
+- Finance
+- Documents
+- Product data
+
+
+### Analyze with AI
+
+AI identifies:
+
+- Patterns
+- Relationships
+- Risks
+- Opportunities
+
+
+### Generate Insight
+
+Transforms analysis into:
+
+- Recommendations
+- Decisions
+- Business actions
+
+
+Built with:
+
+- GSAP ScrollTrigger
+- Framer Motion
+- Custom animated geometry
+
+---
+
+## 03. Intelligence Dashboard
+
+A realistic AI workspace prototype instead of traditional marketing cards.
+
+Includes:
+
+- Product sidebar navigation
+- Intelligence metrics
+- Data visualization
+- AI recommendations
+- Insight tables
+- Automation controls
+
+
+The dashboard focuses on:
+
+- Clear hierarchy
+- Professional spacing
+- Enterprise product design
+- Usable interaction patterns
+
+---
+
+## 04. Signature Interaction — Intelligence Constellation
+
+The main interactive experience.
+
+A real-time 3D constellation that demonstrates how Xai organizes information.
+
+Users can explore:
+
+- Raw signals
+- Structured intelligence
+- Revenue intelligence
+- Customer insights
+- Operational patterns
+- Risk detection
+
+
+The visualization includes:
+
+- Particle-based data system
+- Dynamic connections
+- Cluster transformation
+- Mouse-based depth interaction
+
+---
+
+# 🛠 Technology Stack
+
+## Framework
+
+- Next.js
+- React
+- JavaScript
+
+
+## Animation
+
+- Framer Motion
+- GSAP
+- ScrollTrigger
+
+
+## 3D Visualization
+
+- Three.js
+- React Three Fiber
+- React Three Drei
+
+
+## Styling
+
+- Custom CSS architecture
+- Responsive design system
+
+---
+
+# 📂 Project Architecture
+
+---
+
+# 🎨 Design Approach
+
+The design follows three principles:
+
+## Clarity
+
+Every section explains one part of the intelligence journey.
+
+## Restraint
+
+Animations are purposeful and support understanding instead of decoration.
+
+## Confidence
+
+The interface is designed to feel like a real AI product used by decision-makers.
+
+---
+
+# ⚡ Animation Philosophy
+
+Motion was used to communicate product behavior.
+
+Examples:
+
+- Hero animation creates product identity
+- Scroll animation explains transformation
+- Dashboard interactions create realism
+- 3D constellation represents intelligence formation
+
+---
+
