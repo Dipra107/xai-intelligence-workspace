@@ -9,7 +9,7 @@ Xai is an intelligence workspace concept that transforms fragmented business sig
 The goal was to create a calm, powerful, and technically confident AI product experience inspired by modern platforms like Stripe, Linear, and Vercel.
 
 ---
-
+live link:https://xai-intelligence-workspace-three.vercel.app/
 # ✨ Product Concept
 
 Modern organizations collect massive amounts of data from different sources, but raw information alone does not create decisions.
